@@ -1,0 +1,82 @@
+[
+  {
+    "age": 45,
+    "months_active": 12,
+    "monthly_spend": 150.75,
+    "support_calls": 3,
+    "has_discount": 1,
+    "contrato_codificado": 2
+  },
+  {
+    "age": 60,
+    "months_active": 24,
+    "monthly_spend": 99.99,
+    "support_calls": 1,
+    "has_discount": 0,
+    "contrato_codificado": 0
+  },
+  {
+    "age": 33,
+    "months_active": 48,
+    "monthly_spend": 110.50,
+    "support_calls": 2,
+    "has_discount": 1,
+    "contrato_codificado": 1
+  },
+  {
+    "age": 28,
+    "months_active": 6,
+    "monthly_spend": 200.10,
+    "support_calls": 4,
+    "has_discount": 1,
+    "contrato_codificado": 2
+  },
+  {
+    "age": 52,
+    "months_active": 36,
+    "monthly_spend": 130.00,
+    "support_calls": 2,
+    "has_discount": 0,
+    "contrato_codificado": 1
+  },
+  {
+    "age": 40,
+    "months_active": 18,
+    "monthly_spend": 95.00,
+    "support_calls": 3,
+    "has_discount": 1,
+    "contrato_codificado": 0
+  },
+  {
+    "age": 67,
+    "months_active": 60,
+    "monthly_spend": 180.00,
+    "support_calls": 1,
+    "has_discount": 0,
+    "contrato_codificado": 2
+  },
+  {
+    "age": 23,
+    "months_active": 3,
+    "monthly_spend": 89.99,
+    "support_calls": 4,
+    "has_discount": 1,
+    "contrato_codificado": 0
+  },
+  {
+    "age": 39,
+    "months_active": 15,
+    "monthly_spend": 175.00,
+    "support_calls": 2,
+    "has_discount": 0,
+    "contrato_codificado": 1
+  },
+  {
+    "age": 55,
+    "months_active": 42,
+    "monthly_spend": 160.40,
+    "support_calls": 1,
+    "has_discount": 1,
+    "contrato_codificado": 2
+  }
+]
